@@ -1,0 +1,11 @@
+{
+    "name": "mk/task24_5",
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/Application/"
+        }
+    },
+    "require": {
+        "ext-gd": "*"
+    }
+}
